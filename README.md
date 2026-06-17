@@ -335,6 +335,6 @@ That's production observability.
 
 <div align="center">
 
-Built with 🔥 by someone who cares about what happens after `git push`
+Built with 🔥 by Arman Ihsan who cares about what happens after `git push`
 
 </div>
